@@ -20,3 +20,8 @@ BiLSTM - Test MAE: 0.933 °C, RMSE: 1.271 °C
 ## Predict Temperature
 ![image](https://github.com/kcl42/Grass-Minimum-Temp/blob/main/img/Temp%20pred.png)
 
+## error rate
+
+![image](https://github.com/kcl42/Grass-Minimum-Temp/blob/main/img/95%25%20LSTM.png)
+
+![image](https://github.com/kcl42/Grass-Minimum-Temp/blob/main/img/95%25%20BLSTM.png)
